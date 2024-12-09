@@ -1,69 +1,38 @@
 # 👋 Hi, I’m @RafaelHinojosaH
 
-## 👀 I’m interested in:
-- Building scalable and efficient web applications.
-- Data engineering, data visualization, and data analysis.
-- E-commerce solutions, particularly using WooCommerce and WordPress.
-- Cloud computing, with a focus on AWS.
-- Open-source projects and collaborative development.
-- Exploring machine learning and AI applications.
+## About Me
+I’m a **Data Engineer**, **Data Analyst**, and **FullStack WordPress Developer** passionate about creating data-driven solutions, scalable e-commerce platforms, and innovative applications. With a strong foundation in programming, cloud computing, and data visualization, I thrive at the intersection of technology and real-world impact.
 
-## 🌱 I’m currently learning:
-- Advanced Data Engineering techniques with a focus on big data.
-- Enhancing my skills in cloud infrastructure with AWS services.
-- Best practices for COBOL development.
-- SQL optimization for large-scale databases.
-- Creating dynamic and responsive web applications.
+## 🌱 Currently Learning
+- Advanced data engineering and analytics techniques.
+- Cloud infrastructure with AWS.
+- Optimizing e-commerce platforms for better user experiences.
 
-## 💞️ I’m looking to collaborate on:
-- E-commerce and multivendor marketplace projects.
-- Data-driven applications and visualization tools.
-- Automation scripts and workflow optimizations.
-- Open-source projects to improve web and data technologies.
+## 💻 Technical Skills
+### Programming:
+- **Python**: Data analysis, visualization (Pandas, Matplotlib, Seaborn), automation, and object-oriented programming.
+- **SQL**: ETL processes, database design, and optimization (PostgreSQL, MySQL).
+- **JavaScript**: Front-end interactivity with React and back-end development with Node.js.
+- **COBOL**: Legacy system management and development.
+- **HTML/CSS & PHP**: WordPress theme and plugin development.
+- **Liquid**: Shopify customization.
 
-## 📫 How to reach me:
-- Email: rafael.hinojosah@gmail.com
-- LinkedIn: [Rafael Hinojosa](https://www.linkedin.com/in/rafaelhinojosah/)
+### Tools & Platforms:
+- **WooCommerce**: Multivendor marketplace creation with Dokan.
+- **AWS**: IAM, EC2, S3, CloudFormation, Rekognition, and more.
+- **Tableau**: Business intelligence and storytelling with data.
+- **Git/GitHub**: Version control and collaborative development.
 
-## 😄 Pronouns:
-- He/Him
+## 📜 Certifications
+- **AWS Roles & Security with IAM**
+- **PostgreSQL Database Management**
+- **E-Commerce Optimization**
+- **COBOL from Scratch**
+- **Data Visualization with Matplotlib and Seaborn**
+- **Professional Git and GitHub**
 
-## ⚡ Fun fact:
-- I’m not only passionate about coding but also about creating solutions that have a real-world impact, especially in agriculture and sustainability!
+## 📫 Connect With Me
+- **Email**: rafael.hinojosah@gmail.com  
+- **LinkedIn**: [Rafael Hinojosa](https://www.linkedin.com/in/rafaelhinojosah/)  
 
----
-
-### 💻 My Technical Skills:
-#### Programming Languages:
-- **Python**: Data manipulation, visualization, and automation.
-- **JavaScript**: Front-end development and dynamic web applications.
-- **SQL**: Database querying and optimization.
-- **COBOL**: Legacy system programming.
-- **HTML & CSS**: Web design and development.
-- **Liquid**: Shopify templating for custom e-commerce solutions.
-
-#### Tools and Frameworks:
-- **Django & Flask**: Web development with Python.
-- **Node.js & Express**: Back-end development for web applications.
-- **React**: Front-end development for interactive UIs.
-- **WordPress & WooCommerce**: Custom themes, plugins, and e-commerce stores.
-- **PostgreSQL**: Database management and optimization.
-- **Pandas & NumPy**: Data analysis and manipulation.
-- **Matplotlib**: Data visualization.
-- **Tableau**: Visualizing insights for business intelligence.
-
-#### Cloud and DevOps:
-- **AWS**: EC2, S3, IAM, CloudFormation, and Rekognition.
-- **Git & GitHub**: Version control and collaborative development.
-- **Docker**: Containerized application deployment.
-
-#### Other Skills:
-- Data Cleaning and Validation.
-- Exploratory Data Analysis (EDA).
-- Multivendor marketplace development with Dokan.
-- Agile project management with Jira and ClickUp.
-
----
-
-Thanks for visiting my profile! Feel free to connect or collaborate on projects! 😊
-
+Let’s collaborate on exciting projects and innovative solutions!
