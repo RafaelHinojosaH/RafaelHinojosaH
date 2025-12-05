@@ -150,18 +150,6 @@ I specialize in transforming complex ideas into **real, functional systems** tha
 - Custom scoring system with JSON outputs  
 - Telegram integration for dashboards  
 
-### 🌱 TOPAGRO — B2B2C Marketplace
-- WooCommerce multivendor  
-- Products, suppliers, logistics  
-- SEO blog strategy  
-- CRM & contact funnels  
-
-### 🔥 Taquería TAYTE
-- Brand identity & logo  
-- Recipe design (marinade, salsas, rubs)  
-- Menu engineering & costing  
-- Facebook hiring & marketing automation  
-
 ---
 
 # 😉 Connect With Me
