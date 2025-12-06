@@ -130,28 +130,6 @@ I specialize in transforming complex ideas into **real, functional systems** tha
 
 ---
 
-# 📂 Featured Projects
-
-### 🤖 Telegram Automation Ecosystem — "El Penthouse"
-- Reddit → Telegram scrapers  
-- Video/GIF sanitization pipelines  
-- Publisher bots for 40+ channels  
-- Cron-based content scheduling  
-- Payment bots (Stripe / Crypto / MercadoPago)  
-- User funnels & analytics  
-- Auto-moderation & multi-folder architecture  
-
-### 📈 DeepBlockAI — Crypto Intelligence Suite
-- Alpha Radar  
-- Whale Watcher  
-- Airdrop Finder  
-- Market Pulse  
-- DeFi Yield Scanner  
-- Custom scoring system with JSON outputs  
-- Telegram integration for dashboards  
-
----
-
 # 😉 Connect With Me
 <div align="center">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  
